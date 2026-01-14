@@ -1,0 +1,13 @@
+# Required Python packages for AccuKnox Assignment
+# Install using: pip install -r requirements.txt
+
+# HTTP requests for API calls
+requests>=2.28.0
+
+# Data visualization
+matplotlib>=3.6.0
+
+# Numerical operations
+numpy>=1.23.0
+
+# Note: sqlite3 and csv are part of Python standard library
