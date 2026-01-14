@@ -15,7 +15,7 @@ Assignment2/
 ├── task1_api_books.py           # Task 1: API Data Retrieval
 ├── task2_student_scores.py      # Task 2: Data Visualization
 ├── task3_csv_import.py          # Task 3: CSV to Database
-└── Assignment2_Responses.md     # Written responses for Problem Statement 2
+└── Problem_Statement2.docx      # Written responses for Problem Statement 2
 ```
 
 ---
@@ -101,10 +101,10 @@ python task3_csv_import.py
 
 ## Problem Statement 2 Responses
 
-See `Assignment2_Responses.md` for detailed written responses covering:
+See `Problem_Statement2.docx` for detailed written responses covering:
 1. Self-rating on LLM, Deep Learning, AI, ML technologies
 2. LLM-based chatbot architecture explanation
-3. Vector databases analysis and selection
+3. Vector databases analysis and selection (FAISS)
 
 ---
 
